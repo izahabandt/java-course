@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WallArea.iml" filepath="$PROJECT_DIR$/WallArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedClassesPractice.iml" filepath="$PROJECT_DIR$/NestedClassesPractice.iml" />
     </modules>
   </component>
 </project>

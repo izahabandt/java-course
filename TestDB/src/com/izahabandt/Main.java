@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class Main {
     public static final String DB_NAME = "testjava.db";
-    public static final String CONNECTION_STRING = "jdbc:sqlite:C:\\Users\\izabe\\Desktop" + DB_NAME;
+    public static final String CONNECTION_STRING = "jdbc:sqlite:\\Desktop\\java-course\\java-course\\TestDB" + DB_NAME;
 
     public static final String TABLE_CONTACTS = "contacts";
 
@@ -68,4 +68,18 @@ public class Main {
                 "VALUES('" + name + "', " + phone + ", '" + email + "')");
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
